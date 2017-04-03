@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_package/main/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_package/stringutil/name.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_package/stringutil/reverse.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02_package/stringutil/reverseTwo.go" />
+    <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="Added package 02">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_variables/01_shorthand/01/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_variables/01_shorthand/02/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_variables/02_var_zero-value/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_variables/03_less-emphasis/01_declare-variable/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_variables/03_less-emphasis/02_declare-many-at-once/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_variables/03_less-emphasis/03_init-many-at-once/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_variables/03_less-emphasis/04_infer-type/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_variables/03_less-emphasis/05_infer-mixed-up-types/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_variables/03_less-emphasis/06_init-shorthand/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_variables/03_less-emphasis/07_all-together/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04_scope/01_package-scope/01/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/main/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/vis/name.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/vis/printer.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02_package/stringutil/reverse.go" afterPath="$PROJECT_DIR$/02_package/stringutil/Reverse.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02_package/main/main.go" afterPath="$PROJECT_DIR$/02_package/main/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02_package/stringutil/name.go" afterPath="$PROJECT_DIR$/02_package/stringutil/name.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02_package/stringutil/reverseTwo.go" afterPath="$PROJECT_DIR$/02_package/stringutil/reverseTwo.go" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,44 +39,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02_package/main/main.go">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_scope/01_package-scope/01/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding>
-                <element signature="e#14#95#0" expanded="true" />
+                <element signature="e#14#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/main/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="e#14#115#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="name.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_package/stringutil/name.go">
+        <entry file="file://$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/vis/name.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="51">
+              <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reverse.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_package/stringutil/reverse.go">
+      <file leaf-file-name="printer.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/vis/printer.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reverseTwo.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_package/stringutil/reverseTwo.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-              <folding />
+            <state relative-caret-position="102">
+              <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <folding>
+                <element signature="e#13#25#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,9 +116,18 @@
         <option value="$PROJECT_DIR$/01_getting-started/03_UTF-8/main.go" />
         <option value="$PROJECT_DIR$/02_package/main.go" />
         <option value="$PROJECT_DIR$/02_package/stringutil/name.go" />
-        <option value="$PROJECT_DIR$/02_package/stringutil/reverse.go" />
         <option value="$PROJECT_DIR$/02_package/stringutil/reverseTwo.go" />
+        <option value="$PROJECT_DIR$/02_package/stringutil/reverse.go" />
         <option value="$PROJECT_DIR$/02_package/main/main.go" />
+        <option value="$PROJECT_DIR$/03_variables/01_shorthand/01/main.go" />
+        <option value="$PROJECT_DIR$/03_variables/01_shorthand/02/main.go" />
+        <option value="$PROJECT_DIR$/03_variables/02_var_zero-value/main.go" />
+        <option value="$PROJECT_DIR$/03_variables/03_less-emphasis/01_declare-variable/main.go" />
+        <option value="$PROJECT_DIR$/03_variables/03_less-emphasis/02_declare-many-at-once/main.go" />
+        <option value="$PROJECT_DIR$/04_scope/01_package-scope/01/main.go" />
+        <option value="$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/main/main.go" />
+        <option value="$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/vis/name.go" />
+        <option value="$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/vis/printer.go" />
       </list>
     </option>
   </component>
@@ -195,11 +223,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="02_package" />
+              <option name="myItemId" value="04_scope" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="stringutil" />
+              <option name="myItemId" value="02_block-scope" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -213,11 +241,63 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="02_package" />
+              <option name="myItemId" value="04_scope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_package-scope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_visibility" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="04_scope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_package-scope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_visibility" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="04_scope" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_package-scope" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -243,12 +323,17 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\04_scope\01_package-scope" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\02_package\main" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\01_getting-started" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\02_numeral-systems\01_decimal" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\01_getting-started" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\03_variables\03_less-emphasis\08_exercise_your-name" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\03_variables\03_less-emphasis\07_all-together" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\03_variables\03_less-emphasis\06_init-shorthand" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\03_variables\03_less-emphasis\05_infer-mixed-up-types" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\03_variables\03_less-emphasis\04_infer-type" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -352,11 +437,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21546261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21546261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34005377" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24904943" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -369,7 +454,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -402,7 +486,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="remove hell, add heaven" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove hell, add heaven" />
+    <MESSAGE value="Added package 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added package 02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -551,36 +636,168 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/02_package/main/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding>
+            <element signature="e#14#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/02_package/stringutil/name.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02_package/stringutil/reverse.go">
+    <entry file="file://$PROJECT_DIR$/02_package/stringutil/Reverse.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02_package/stringutil/reverseTwo.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02_package/main/main.go">
+    <entry file="file://$PROJECT_DIR$/03_variables/01_shorthand/01/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_variables/01_shorthand/02/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="14" column="30" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="14" selection-end-column="30" />
           <folding>
-            <element signature="e#14#95#0" expanded="true" />
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_variables/02_var_zero-value/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/01_declare-variable/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/02_declare-many-at-once/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/03_init-many-at-once/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/04_infer-type/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/05_infer-mixed-up-types/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/06_init-shorthand/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/07_all-together/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_scope/01_package-scope/01/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/main/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/vis/name.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/vis/printer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="e#13#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
