@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04_scope/02_block-scope/02_closure/01/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04_scope/02_block-scope/02_closure/02/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04_scope/02_block-scope/02_closure/03/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04_scope/02_block-scope/02_closure/04/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_blank-identifier/01_invalid-code/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_blank-identifier/02_http-get_example/01_with-error-checking/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05_blank-identifier/02_http-get_example/02_no-error-checking/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_constants/01_constants/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_constants/02_multiple-initialization/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_constants/03_iota/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_constants/04_iota/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_constants/05_iota/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_constants/06_iota/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06_constants/07_iota/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/01_declare-variable/main.go" afterPath="$PROJECT_DIR$/03_variables/03_less-emphasis [TODO]/01_declare-variable/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/02_declare-many-at-once/main.go" afterPath="$PROJECT_DIR$/03_variables/03_less-emphasis [TODO]/02_declare-many-at-once/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/03_init-many-at-once/main.go" afterPath="$PROJECT_DIR$/03_variables/03_less-emphasis [TODO]/03_init-many-at-once/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/04_infer-type/main.go" afterPath="$PROJECT_DIR$/03_variables/03_less-emphasis [TODO]/04_infer-type/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/05_infer-mixed-up-types/main.go" afterPath="$PROJECT_DIR$/03_variables/03_less-emphasis [TODO]/05_infer-mixed-up-types/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/06_init-shorthand/main.go" afterPath="$PROJECT_DIR$/03_variables/03_less-emphasis [TODO]/06_init-shorthand/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/07_all-together/main.go" afterPath="$PROJECT_DIR$/03_variables/03_less-emphasis [TODO]/07_all-together/main.go" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03_variables/03_less-emphasis/08_exercise_your-name/main.go" afterPath="$PROJECT_DIR$/03_variables/03_less-emphasis [TODO]/08_exercise_your-name/main.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/main/main.go" afterPath="$PROJECT_DIR$/04_scope/01_package-scope/02_visibility/main/main.go" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -435,7 +412,8 @@
     <MESSAGE value="remove hell, add heaven" />
     <MESSAGE value="Added package 02" />
     <MESSAGE value="Added package vis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added package vis" />
+    <MESSAGE value="Adding blank identifiers and constants" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding blank identifiers and constants" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
