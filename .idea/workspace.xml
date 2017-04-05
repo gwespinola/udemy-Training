@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/13_exercises/06_3s-n-5s/main.go" afterPath="$PROJECT_DIR$/13_exercises/06_3s-n-5s/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/13_exercises/07_sum-of-multiples/main.go" afterPath="$PROJECT_DIR$/13_exercises/07_sum-of-multiples/main.go" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,11 +20,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/13_exercises/06_3s-n-5s/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+              <folding>
+                <element signature="e#14#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/13_exercises/07_sum-of-multiples/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
               </folding>
@@ -96,10 +107,10 @@
         <option value="$PROJECT_DIR$/Exercises/02_hello-name/main.go" />
         <option value="$PROJECT_DIR$/Exercises/03_print-name/main.go" />
         <option value="$PROJECT_DIR$/13_exercises/04_small-and-large-numbers/main.go" />
-        <option value="$PROJECT_DIR$/13_exercises/07_sum-of-multiples/main.go" />
         <option value="$PROJECT_DIR$/13_exercises/03_print-name/main.go" />
         <option value="$PROJECT_DIR$/13_exercises/05_even-numbers/main.go" />
         <option value="$PROJECT_DIR$/13_exercises/06_3s-n-5s/main.go" />
+        <option value="$PROJECT_DIR$/13_exercises/07_sum-of-multiples/main.go" />
       </list>
     </option>
   </component>
@@ -843,16 +854,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/13_exercises/07_sum-of-multiples/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/13_exercises/03_print-name/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -877,6 +878,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_exercises/07_sum-of-multiples/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
           </folding>
