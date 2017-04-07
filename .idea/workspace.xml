@@ -2,33 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/01_main/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/02_param-arg/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/03_two-params/01/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/03_two-params/02/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/04_return/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/05_return-naming/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/06_return-multiple/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/07_variadic-params/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/08_variadic-args/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/09_slice-param-arg/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/10_func-expression/01_before-func-expression/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/10_func-expression/02_func-expression/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/10_func-expression/03_func-expression_shows-type/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/10_func-expression/04_another-way_func-expression/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/10_func-expression/05_another-way_func-expression_shows-type/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/11_closure/01/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/11_closure/02/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/11_closure/03/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/11_closure/04/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/12_callback-example/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/13_recursion/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/14_defer/01_no-defer/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/14_defer/02_with-defer/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/15_pass-by-value/01_int/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/15_pass-by-value/02_int-pointer/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/15_pass-by-value/03_string/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/15_pass-by-value/04_string-pointer/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/15_pass-by-value/05_REFERENCE-TYPE/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/15_pass-by-value/06_REFERENCE-TYPE/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_functions/16_anon-self-executing/main.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -47,11 +23,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/14_functions/15_pass-by-value/04_string-pointer/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <folding>
+                <element signature="e#14#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/14_functions/15_pass-by-value/05_REFERENCE-TYPE/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/14_functions/16_anon-self-executing/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
               </folding>
@@ -75,9 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/10_for-loop/06_for-continue/main.go" />
-        <option value="$PROJECT_DIR$/10_for-loop/07_rune-loop_UTF-8/01/main.go" />
-        <option value="$PROJECT_DIR$/10_for-loop/07_rune-loop_UTF-8/02/main.go" />
         <option value="$PROJECT_DIR$/11_switch-statements/01_switch/main.go" />
         <option value="$PROJECT_DIR$/11_switch-statements/02_fallthrough/main.go" />
         <option value="$PROJECT_DIR$/11_switch-statements/03_multiple-evals/main.go" />
@@ -126,6 +121,9 @@
         <option value="$PROJECT_DIR$/14_functions/15_pass-by-value/02_int-pointer/main.go" />
         <option value="$PROJECT_DIR$/14_functions/15_pass-by-value/03/main.go" />
         <option value="$PROJECT_DIR$/14_functions/15_pass-by-value/04_string-pointer/main.go" />
+        <option value="$PROJECT_DIR$/14_functions/15_pass-by-value/05_REFERENCE-TYPE/main.go" />
+        <option value="$PROJECT_DIR$/14_functions/16_anon-self-executing/mian.go" />
+        <option value="$PROJECT_DIR$/14_functions/16_anon-self-executing/main.go" />
       </list>
     </option>
   </component>
@@ -197,6 +195,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -223,51 +222,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="15_pass-by-value" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="14_functions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="15_pass-by-value" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="03_string" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="14_functions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="15_pass-by-value" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02_int-pointer" />
+              <option name="myItemId" value="16_anon-self-executing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -288,7 +243,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -309,19 +263,19 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Gil/Documents/Go Workspace/src/github.com/gwespinola/udemy Training/11_switch-statements/05_on-type/type.go" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\15_pass-by-value\02_int-pointer" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\12_if_else-if_else\01_eval-true" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\04_scope\01_package-scope" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\02_package\main" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\01_getting-started" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\15_pass-by-value\05_REFERENCE-TYPE" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\14_defer\02_with-defer" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\10_func-expression\03_func-expression_shows-type" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\10_func-expression\02_func-expression" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\03_variables\03_less-emphasis\08_exercise_your-name" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\03_variables\03_less-emphasis\07_all-together" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\15_pass-by-value\06_REFERENCE-TYPE" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\15_pass-by-value\02_int-pointer" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\12_if_else-if_else\01_eval-true" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\04_scope\01_package-scope" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\02_package\main" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -466,27 +420,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/13_exercises/02_hello-name/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13_exercises/01_hello-world/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11_switch-statements/05_on-type/type.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03_variables/01_shorthand/02/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -624,9 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -634,9 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -644,9 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -654,9 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -664,9 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -674,9 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -684,9 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="77" lean-forward="false" selection-start-line="13" selection-start-column="77" selection-end-line="13" selection-end-column="77" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -694,9 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -704,9 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -714,9 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -724,9 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="1" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -734,9 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -744,9 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -754,7 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -762,7 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,9 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="1" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -780,9 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -790,9 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -800,9 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -810,9 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -820,9 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -830,9 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -840,9 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -850,9 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -860,9 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -870,9 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -880,9 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -890,16 +746,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/14_functions/15_pass-by-value/04_string-pointer/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_functions/15_pass-by-value/06_REFERENCE-TYPE/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_functions/15_pass-by-value/05_REFERENCE-TYPE/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_functions/16_anon-self-executing/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
           </folding>
