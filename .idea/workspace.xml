@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/16_exercises/03_variadic/main.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_exercises/01_integer/main.go" afterPath="$PROJECT_DIR$/16_exercises/01_integer/main.go" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -448,7 +446,8 @@
     <MESSAGE value="Added package vis" />
     <MESSAGE value="Adding blank identifiers and constants" />
     <MESSAGE value="Added folder 15 and part of folder 16" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added folder 15 and part of folder 16" />
+    <MESSAGE value="Corrections tot he first exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrections tot he first exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
