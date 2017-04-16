@@ -2,12 +2,11 @@ package main
 
 import "fmt"
 
+func half(n int) (int, bool) {
+	return n / 2, n%2 == 0
+}
+
 func main() {
-	x := 10 % 2
-	fmt.Println(x)
-	if x != 1 {
-		fmt.Println("Even")
-	} else {
-		fmt.Println("Odd")
-	}
+	h, even := half(8)
+	fmt.Println(h, even)
 }
