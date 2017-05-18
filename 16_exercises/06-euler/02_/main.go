@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func fibonacci(n uint) uint {
+func fibonacci(n int) int {
 	if n == 0 {
 		return 0
 	} else if n == 1 {
