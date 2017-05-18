@@ -2,38 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_array/01_/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_array/02_/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_array/03_/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_array/04_/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17_array/05_/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/01_int-slice/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/02_/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/03_/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/04_/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/05_/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/06_slicing-a-slice/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/07_/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/08_append-invalid/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/09_append-to-a-slice/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/10_appending-beyond-capacity/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/11_append_slice-to-slice/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/12_delete/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/13_multi-dimensional/01_shorthand-slice/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/13_multi-dimensional/02_var-slice/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/13_multi-dimensional/03_make-slice/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/13_multi-dimensional/04_comparing_shorthand_var_make/03_make-slice/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/13_multi-dimensional/04_comparing_shorthand_var_make/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/13_multi-dimensional/05_slice-of-slice-of-string/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/13_multi-dimensional/06_slice-of-slice-of-int/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/14_int-slice-plus-plus/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/15_exercises/01_slice-of-int-shorthand/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/15_exercises/02_slice-of-int-shorthand/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/15_exercises/03_make-slice-of-int/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/15_exercises/04_append-slice-to-slice/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/15_exercises/05_delete-from-slice/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/18_slice/15_exercises/06_slice-out-of-range/main.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/16_exercises/06-euler/02_/main.go" afterPath="$PROJECT_DIR$/16_exercises/06-euler/02_/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/18_slice/15_exercises/03_make-slice-of-int/main.go" afterPath="$PROJECT_DIR$/18_slice/15_exercises/03_make-slice-of-int/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/18_slice/15_exercises/04_append-slice-to-slice/main.go" afterPath="$PROJECT_DIR$/18_slice/15_exercises/04_append-slice-to-slice/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/18_slice/15_exercises/05_delete-from-slice/main.go" afterPath="$PROJECT_DIR$/18_slice/15_exercises/05_delete-from-slice/main.go" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,14 +24,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/18_slice/15_exercises/05_delete-from-slice/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/18_slice/15_exercises/06_slice-out-of-range/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+              <folding>
+                <element signature="e#14#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/18_slice/15_exercises/04_append-slice-to-slice/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/18_slice/15_exercises/03_make-slice-of-int/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="75" lean-forward="true" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -79,8 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/15-bool-expressions/01_true-false/main.go" />
-        <option value="$PROJECT_DIR$/15-bool-expressions/02_not/main.go" />
         <option value="$PROJECT_DIR$/15-bool-expressions/03_or/mian.go" />
         <option value="$PROJECT_DIR$/15-bool-expressions/03_or/main.go" />
         <option value="$PROJECT_DIR$/15-bool-expressions/04_and/main.go" />
@@ -125,11 +128,13 @@
         <option value="$PROJECT_DIR$/18_slice/13_multi-dimensional/04_comparing_shorthand_var_make/03_make-slice/main.go" />
         <option value="$PROJECT_DIR$/18_slice/15_exercises/02_slice-of-int-shorthand/main.go" />
         <option value="$PROJECT_DIR$/18_slice/15_exercises/01_slice-of-int-shorthand/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/15_exercises/03_make-slice-of-int/main.go" />
         <option value="$PROJECT_DIR$/18_slice/15_exercises/04_/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/15_exercises/04_append-slice-to-slice/main.go" />
         <option value="$PROJECT_DIR$/18_slice/15_exercises/05_/main.go" />
+        <option value="$PROJECT_DIR$/18_slice/15_exercises/06_/main.go" />
+        <option value="$PROJECT_DIR$/18_slice/15_exercises/06_slice-out-of-range/main.go" />
         <option value="$PROJECT_DIR$/18_slice/15_exercises/05_delete-from-slice/main.go" />
+        <option value="$PROJECT_DIR$/18_slice/15_exercises/04_append-slice-to-slice/main.go" />
+        <option value="$PROJECT_DIR$/18_slice/15_exercises/03_make-slice-of-int/main.go" />
       </list>
     </option>
   </component>
@@ -257,6 +262,94 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="15_exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="18_slice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="15_exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="04_append-slice-to-slice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="18_slice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="15_exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03_make-slice-of-int" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="18_slice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="15_exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_slice-of-int-shorthand" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="18_slice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="15_exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_slice-of-int-shorthand" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -465,13 +558,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08_pointers/04_using-pointers/02_pointers/01/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08_pointers/04_using-pointers/02_pointers/02_seeing-the-address/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -816,30 +902,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/15_exercises/03_make-slice-of-int/main.go">
+    <entry file="file://$PROJECT_DIR$/18_slice/15_exercises/05_delete-from-slice/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        <state relative-caret-position="272">
+          <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
           <folding>
-            <element signature="e#14#26#0" expanded="false" />
+            <element signature="e#14#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/18_slice/15_exercises/04_append-slice-to-slice/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/15_exercises/05_delete-from-slice/main.go">
+    <entry file="file://$PROJECT_DIR$/18_slice/15_exercises/03_make-slice-of-int/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="9" column="75" lean-forward="true" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18_slice/15_exercises/06_slice-out-of-range/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
           </folding>

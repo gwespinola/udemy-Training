@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main()  {
+func main() {
 	mySlice := make([]int, 5, 5)
 	mySlice[0] = 48
 	mySlice[1] = 8
@@ -14,3 +14,5 @@ func main()  {
 	fmt.Println(mySlice)
 	fmt.Println(cap(mySlice))
 }
+
+//delete an element from a slice
