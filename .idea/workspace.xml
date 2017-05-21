@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/10_hash-letter-buckets/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/11_hash-remainder-buckets/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/02_even-distribution-hash/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/04_english-alphabet/01_/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/04_english-alphabet/02_/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/01_runes-are-numbers/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/02_string-to-rune-conversion/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/03_string-index-access/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/04_remainder-bucket-selection/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/05_hash_function/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/06_get/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/07_scanner/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/08_moby-dick-words/main.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/19_map/11_hash-table/02_even-distribution-hash/main.go" afterPath="$PROJECT_DIR$/19_map/11_hash-table/02_even-distribution-hash/main.go" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,11 +29,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/02_even-distribution-hash/main.go">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/07_scanner/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="60" lean-forward="false" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+            <state relative-caret-position="272">
+              <caret line="12" column="61" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding>
+                <element signature="e#14#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/08_moby-dick-words/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
               <folding>
                 <element signature="e#14#59#0" expanded="true" />
               </folding>
@@ -53,14 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/16_exercises/06-euler/01_/main.go" />
-        <option value="$PROJECT_DIR$/17_data-structures/01_array/main.go" />
-        <option value="$PROJECT_DIR$/17_array/01_/main.go" />
-        <option value="$PROJECT_DIR$/16_exercises/06-euler/02_/main.go" />
-        <option value="$PROJECT_DIR$/17_array/02_/main.go" />
-        <option value="$PROJECT_DIR$/17_array/04_/main.go" />
-        <option value="$PROJECT_DIR$/17_array/05_/main.go" />
-        <option value="$PROJECT_DIR$/17_array/03_/main.go" />
         <option value="$PROJECT_DIR$/18_slice/01_int-slice/main.go" />
         <option value="$PROJECT_DIR$/18_slice/02_/main.go" />
         <option value="$PROJECT_DIR$/18_slice/03_/main.go" />
@@ -104,6 +112,14 @@
         <option value="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/10_hash-letter-buckets/main.go" />
         <option value="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/11_hash-remainder-buckets/main.go" />
         <option value="$PROJECT_DIR$/19_map/11_hash-table/02_even-distribution-hash/main.go" />
+        <option value="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/01_runes-are-numbers/main.go" />
+        <option value="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/02_string-to-rune-conversion/main.go" />
+        <option value="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/03_string-index-access/main.go" />
+        <option value="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/04_remainder-bucket-selection/main.go" />
+        <option value="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/05_hash_function/main.go" />
+        <option value="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/06_get/main.go" />
+        <option value="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/07_scanner/main.go" />
+        <option value="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/08_moby-dick-words/main.go" />
       </list>
     </option>
   </component>
@@ -175,7 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -282,6 +297,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -472,62 +488,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/13_exercises/06_3s-n-5s/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13_exercises/05_even-numbers/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13_exercises/07_sum-of-multiples/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/16_exercises/06-euler/01_/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/16_exercises/06-euler/02_/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17_array/01_/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17_array/02_/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17_array/03_/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/17_array/04_/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -813,9 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-          <folding>
-            <element signature="e#14#57#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -823,16 +780,75 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-          <folding>
-            <element signature="e#14#59#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/02_even-distribution-hash/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="60" lean-forward="false" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+        <state relative-caret-position="527">
+          <caret line="31" column="46" lean-forward="false" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/01_runes-are-numbers/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/02_string-to-rune-conversion/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/03_string-index-access/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/04_remainder-bucket-selection/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/05_hash_function/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/06_get/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/07_scanner/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="12" column="61" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/08_moby-dick-words/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
           <folding>
             <element signature="e#14#59#0" expanded="true" />
           </folding>
