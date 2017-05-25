@@ -1,0 +1,1 @@
+package _1_alias_type_not_idiomatic
