@@ -1,17 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/01_runes-are-numbers/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/02_string-to-rune-conversion/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/03_string-index-access/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/04_remainder-bucket-selection/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/05_hash_function/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/06_get/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/07_scanner/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/08_moby-dick-words/main.go" />
+    <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="Finished exercises">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/01_marshal/01_exported/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/01_marshal/02_unexported/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/01_marshal/03_tags/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/02_unmarshal/01_/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/02_unmarshal/02_tags/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20_struct/08_encode-decode/01_encode/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20_struct/08_encode-decode/02_decode/main.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/19_map/11_hash-table/02_even-distribution-hash/main.go" afterPath="$PROJECT_DIR$/19_map/11_hash-table/02_even-distribution-hash/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/09_int-slice-plus-plus/main.go" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/09_int-slice-plus-plus/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/19_map/11_hash-table/03_words-in-buckets/01_slice-bucket/main.go" afterPath="$PROJECT_DIR$/19_map/11_hash-table/03_words-in-buckets/01_slice-bucket/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/19_map/11_hash-table/03_words-in-buckets/02_map-bucket/main.go" afterPath="$PROJECT_DIR$/19_map/11_hash-table/03_words-in-buckets/02_map-bucket/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/00_object-oriented/notes.txt" afterPath="$PROJECT_DIR$/20_struct/00_object-oriented/notes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/01_user-defined-types/01_alias-type-not-idiomatic/main.go" afterPath="$PROJECT_DIR$/20_struct/01_user-defined-types/01_alias-type-not-idiomatic/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/01_user-defined-types/02_static-typing/main.go" afterPath="$PROJECT_DIR$/20_struct/01_user-defined-types/02_static-typing/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/01_user-defined-types/notes.txt" afterPath="$PROJECT_DIR$/20_struct/01_user-defined-types/notes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/02_struct_fields_values_initialisation/main.go" afterPath="$PROJECT_DIR$/20_struct/02_struct_fields_values_initialisation/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/02_struct_fields_values_initialisation/notes.txt" afterPath="$PROJECT_DIR$/20_struct/02_struct_fields_values_initialisation/notes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/03_methods/main.go" afterPath="$PROJECT_DIR$/20_struct/03_methods/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/03_methods/notes.txt" afterPath="$PROJECT_DIR$/20_struct/03_methods/notes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/04_embbed-types/main.go" afterPath="$PROJECT_DIR$/20_struct/04_embbed-types/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/05_promotion/01_overriding-fields/main.go" afterPath="$PROJECT_DIR$/20_struct/05_promotion/01_overriding-fields/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/05_promotion/02_overriding-methods/main.go" afterPath="$PROJECT_DIR$/20_struct/05_promotion/02_overriding-methods/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/06_struct-pointer/main.go" afterPath="$PROJECT_DIR$/20_struct/06_struct-pointer/main.go" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,22 +43,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/07_scanner/main.go">
+        <entry file="file://$PROJECT_DIR$/20_struct/07_marshal_unmarshal/02_unmarshal/01_/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="e#14#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20_struct/07_marshal_unmarshal/02_unmarshal/02_tags/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+              <folding>
+                <element signature="e#14#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20_struct/08_encode-decode/01_encode/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="12" column="61" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
               <folding>
-                <element signature="e#14#57#0" expanded="true" />
+                <element signature="e#14#47#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/08_moby-dick-words/main.go">
+        <entry file="file://$PROJECT_DIR$/20_struct/08_encode-decode/02_decode/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            <state relative-caret-position="374">
+              <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
               <folding>
                 <element signature="e#14#59#0" expanded="true" />
               </folding>
@@ -69,30 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/18_slice/01_int-slice/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/02_/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/03_/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/04_/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/05_/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/06_slicing-a-slice/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/07_/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/08_append-invalid/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/09_append-to-a-slice/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/10_appending-beyond-capacity/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/11_append_slice-to-slice/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/12_delete/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/13_multi-dimensional/05_slice-of-slice-of-string/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/13_multi-dimensional/06_slice-of-slice-of-int/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/13_multi-dimensional/04_comparing_shorthand_var_make/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/13_multi-dimensional/02_var-slice/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/13_multi-dimensional/03_make-slice/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/13_multi-dimensional/01_shorthand-slice/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/14_int-slice-plus-plus/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/13_multi-dimensional/04_comparing_shorthand_var_make/03_make-slice/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/15_exercises/02_slice-of-int-shorthand/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/15_exercises/01_slice-of-int-shorthand/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/15_exercises/04_/main.go" />
-        <option value="$PROJECT_DIR$/18_slice/15_exercises/05_/main.go" />
         <option value="$PROJECT_DIR$/18_slice/15_exercises/06_/main.go" />
         <option value="$PROJECT_DIR$/18_slice/15_exercises/05_delete-from-slice/main.go" />
         <option value="$PROJECT_DIR$/18_slice/15_exercises/04_append-slice-to-slice/main.go" />
@@ -109,7 +122,6 @@
         <option value="$PROJECT_DIR$/19_map/10_loop-range/main.go" />
         <option value="$PROJECT_DIR$/19_map/11_hash-table/main.go" />
         <option value="$PROJECT_DIR$/19_map/11_hash-table/04_english-alphabet/02_/main.go" />
-        <option value="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/10_hash-letter-buckets/main.go" />
         <option value="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/11_hash-remainder-buckets/main.go" />
         <option value="$PROJECT_DIR$/19_map/11_hash-table/02_even-distribution-hash/main.go" />
         <option value="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/01_runes-are-numbers/main.go" />
@@ -120,6 +132,31 @@
         <option value="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/06_get/main.go" />
         <option value="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/07_scanner/main.go" />
         <option value="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/08_moby-dick-words/main.go" />
+        <option value="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/09_int-slice-plus-plus/main.go" />
+        <option value="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/10_hash-letter-buckets/main.go" />
+        <option value="$PROJECT_DIR$/19_map/11_hash-table/03_words-in-buckets/02_map-bucket/main.go" />
+        <option value="$PROJECT_DIR$/19_map/11_hash-table/03_words-in-buckets/01_slice-bucket/main.go" />
+        <option value="$PROJECT_DIR$/20_struct/02_struct_fields_values_initialisation/main.go" />
+        <option value="$PROJECT_DIR$/20_struct/00_object-oriented/notes.txt" />
+        <option value="$PROJECT_DIR$/20_struct/01_user-defined-types/01_alias-type-not-idiomatic/main.go" />
+        <option value="$PROJECT_DIR$/20_struct/01_user-defined-types/02_static-typing/main.go" />
+        <option value="$PROJECT_DIR$/20_struct/01_user-defined-types/notes.txt" />
+        <option value="$PROJECT_DIR$/20_struct/02_struct_fields_values_initialisation/notes.txt" />
+        <option value="$PROJECT_DIR$/20_struct/03_methods/alt.go" />
+        <option value="$PROJECT_DIR$/20_struct/03_methods/01_alt/alt.go" />
+        <option value="$PROJECT_DIR$/20_struct/03_methods/notes.txt" />
+        <option value="$PROJECT_DIR$/20_struct/03_methods/main.go" />
+        <option value="$PROJECT_DIR$/20_struct/04_embbed-types/main.go" />
+        <option value="$PROJECT_DIR$/20_struct/05_promotion/01_overriding-fields/main.go" />
+        <option value="$PROJECT_DIR$/20_struct/05_promotion/02_overriding-methods/main.go" />
+        <option value="$PROJECT_DIR$/20_struct/06_struct-pointer/main.go" />
+        <option value="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/01_marshal/01_exported/main.go" />
+        <option value="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/01_marshal/02_unexported/main.go" />
+        <option value="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/01_marshal/03_tags/main.go" />
+        <option value="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/02_unmarshal/01_/main.go" />
+        <option value="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/02_unmarshal/02_tags/main.go" />
+        <option value="$PROJECT_DIR$/20_struct/08_encode-decode/01_encode/main.go" />
+        <option value="$PROJECT_DIR$/20_struct/08_encode-decode/02_decode/main.go" />
       </list>
     </option>
   </component>
@@ -191,34 +228,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="udemy Training">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="udemy Training">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT=".idea">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -251,33 +260,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="19_map" />
+              <option name="myItemId" value="20_struct" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="11_hash-table" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="19_map" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11_hash-table" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01_letter-buckets" />
+              <option name="myItemId" value="08_encode-decode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -291,8 +278,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="19_map" />
+              <option name="myItemId" value="20_struct" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="udemy Training">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="udemy Training">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT=".idea">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -318,19 +333,19 @@
     <property name="SearchEverywhereHistoryKey" value="control&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\20_struct\03_methods\01_alt" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\19_map\11_hash-table\04_english-alphabet\01_" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\16_exercises\06-euler\02_" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\16_exercises\03_variadic\01_my-solution" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\16_exercises\02_int-func\01_my-solution" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\15_pass-by-value\05_REFERENCE-TYPE" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\14_defer\02_with-defer" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\10_func-expression\03_func-expression_shows-type" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\10_func-expression\02_func-expression" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\03_variables\03_less-emphasis\08_exercise_your-name" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\19_map\11_hash-table\04_english-alphabet\01_" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\16_exercises\06-euler\02_" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\16_exercises\03_variadic\01_my-solution" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\16_exercises\02_int-func\01_my-solution" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\15_pass-by-value\06_REFERENCE-TYPE" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -447,12 +462,12 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21546261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34005377" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24904943" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39919356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -488,167 +503,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/17_array/04_/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17_array/05_/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="59" lean-forward="false" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/01_int-slice/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/02_/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="74" lean-forward="false" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/04_/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/05_/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/06_slicing-a-slice/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/07_/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="30" column="415" lean-forward="false" selection-start-line="30" selection-start-column="415" selection-end-line="30" selection-end-column="415" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/08_append-invalid/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/09_append-to-a-slice/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="114" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/10_appending-beyond-capacity/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/11_append_slice-to-slice/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/12_delete/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/13_multi-dimensional/05_slice-of-slice-of-string/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/13_multi-dimensional/06_slice-of-slice-of-int/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/13_multi-dimensional/01_shorthand-slice/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/13_multi-dimensional/02_var-slice/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/14_int-slice-plus-plus/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/03_/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/13_multi-dimensional/03_make-slice/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/13_multi-dimensional/04_comparing_shorthand_var_make/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/13_multi-dimensional/04_comparing_shorthand_var_make/03_make-slice/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18_slice/15_exercises/02_slice-of-int-shorthand/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="96" lean-forward="true" selection-start-line="9" selection-start-column="96" selection-end-line="9" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/18_slice/15_exercises/01_slice-of-int-shorthand/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -747,14 +601,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Programming/Go/src/net/http/client.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="365" column="5" lean-forward="false" selection-start-line="365" selection-start-column="5" selection-end-line="365" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/04_english-alphabet/01_/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -766,20 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/10_hash-letter-buckets/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/11_hash-remainder-buckets/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -829,9 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#61#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -839,9 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="12" column="61" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#57#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -849,6 +675,204 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/09_int-slice-plus-plus/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/10_hash-letter-buckets/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/11_hash-remainder-buckets/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/03_words-in-buckets/02_map-bucket/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="42" column="45" lean-forward="false" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/03_words-in-buckets/01_slice-bucket/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Programming/Go/src/net/http/client.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="372" column="2" lean-forward="false" selection-start-line="372" selection-start-column="2" selection-end-line="372" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/00_object-oriented/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="51" lean-forward="true" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/02_struct_fields_values_initialisation/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/01_user-defined-types/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/02_struct_fields_values_initialisation/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/01_user-defined-types/02_static-typing/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/01_user-defined-types/01_alias-type-not-idiomatic/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/03_methods/01_alt/alt.go" />
+    <entry file="file://$PROJECT_DIR$/20_struct/04_embbed-types/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/03_methods/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="6" column="83" lean-forward="true" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/03_methods/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/05_promotion/01_overriding-fields/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/05_promotion/02_overriding-methods/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/06_struct-pointer/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/07_marshal_unmarshal/01_marshal/01_exported/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#48#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/07_marshal_unmarshal/01_marshal/02_unexported/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/07_marshal_unmarshal/01_marshal/03_tags/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/07_marshal_unmarshal/02_unmarshal/01_/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/07_marshal_unmarshal/02_unmarshal/02_tags/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <folding>
+            <element signature="e#14#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/08_encode-decode/01_encode/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          <folding>
+            <element signature="e#14#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_struct/08_encode-decode/02_decode/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
           <folding>
             <element signature="e#14#59#0" expanded="true" />
           </folding>
