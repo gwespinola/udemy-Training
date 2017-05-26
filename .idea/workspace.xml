@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="Finished exercises">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/01_marshal/01_exported/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/01_marshal/02_unexported/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/01_marshal/03_tags/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/02_unmarshal/01_/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20_struct/07_marshal_unmarshal/02_unmarshal/02_tags/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20_struct/08_encode-decode/01_encode/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20_struct/08_encode-decode/02_decode/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/09_int-slice-plus-plus/main.go" afterPath="$PROJECT_DIR$/19_map/11_hash-table/01_letter-buckets/09_int-slice-plus-plus/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/19_map/11_hash-table/03_words-in-buckets/01_slice-bucket/main.go" afterPath="$PROJECT_DIR$/19_map/11_hash-table/03_words-in-buckets/01_slice-bucket/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/19_map/11_hash-table/03_words-in-buckets/02_map-bucket/main.go" afterPath="$PROJECT_DIR$/19_map/11_hash-table/03_words-in-buckets/02_map-bucket/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/00_object-oriented/notes.txt" afterPath="$PROJECT_DIR$/20_struct/00_object-oriented/notes.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/01_user-defined-types/01_alias-type-not-idiomatic/main.go" afterPath="$PROJECT_DIR$/20_struct/01_user-defined-types/01_alias-type-not-idiomatic/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/01_user-defined-types/02_static-typing/main.go" afterPath="$PROJECT_DIR$/20_struct/01_user-defined-types/02_static-typing/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/01_user-defined-types/notes.txt" afterPath="$PROJECT_DIR$/20_struct/01_user-defined-types/notes.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/02_struct_fields_values_initialisation/main.go" afterPath="$PROJECT_DIR$/20_struct/02_struct_fields_values_initialisation/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/02_struct_fields_values_initialisation/notes.txt" afterPath="$PROJECT_DIR$/20_struct/02_struct_fields_values_initialisation/notes.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/03_methods/main.go" afterPath="$PROJECT_DIR$/20_struct/03_methods/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/03_methods/notes.txt" afterPath="$PROJECT_DIR$/20_struct/03_methods/notes.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/04_embbed-types/main.go" afterPath="$PROJECT_DIR$/20_struct/04_embbed-types/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/05_promotion/01_overriding-fields/main.go" afterPath="$PROJECT_DIR$/20_struct/05_promotion/01_overriding-fields/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/05_promotion/02_overriding-methods/main.go" afterPath="$PROJECT_DIR$/20_struct/05_promotion/02_overriding-methods/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_struct/06_struct-pointer/main.go" afterPath="$PROJECT_DIR$/20_struct/06_struct-pointer/main.go" />
-    </list>
+    <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="Finished exercises" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
