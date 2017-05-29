@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="Finished exercises">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/21_interfaces/01_interface/01_no-interface/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/21_interfaces/02_package-sort/01_sort-names/01_/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/21_interfaces/02_package-sort/01_sort-names/02_/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/21_interfaces/02_package-sort/notes.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/21_interfaces/01_interface/01_interface/main.go" afterPath="" />
+    <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/21_interfaces/02_package-sort/02_sort-names_type-StringSlice/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/21_interfaces/02_package-sort/03_sort-Strings/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/21_interfaces/02_package-sort/04_sort-names_type-StringSlice_reverse/main.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/21_interfaces/01_interface/02_interface/main.go" afterPath="$PROJECT_DIR$/21_interfaces/01_interface/02_interface/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/21_interfaces/01_interface/03_interface/main.go" afterPath="$PROJECT_DIR$/21_interfaces/01_interface/03_interface/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/21_interfaces/notes.txt" afterPath="$PROJECT_DIR$/21_interfaces/notes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/21_interfaces/02_package-sort/01_sort-names/02_/main.go" afterPath="$PROJECT_DIR$/21_interfaces/02_package-sort/01_sort-names/02_/main.go" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,26 +23,14 @@
     <favorites_list name="udemy Training" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.48465267">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/21_interfaces/02_package-sort/01_sort-names/01_/main.go">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-                  <folding>
-                    <element signature="e#14#26#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/21_interfaces/02_package-sort/01_sort-names/02_/main.go">
+            <entry file="file://$PROJECT_DIR$/21_interfaces/02_package-sort/04_sort-names_type-StringSlice_reverse/main.go">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="272">
-                  <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+                <state relative-caret-position="187">
+                  <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
                   <folding>
                     <element signature="e#14#39#0" expanded="true" />
                   </folding>
@@ -57,22 +41,32 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+        <leaf>
           <file leaf-file-name="notes.txt" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/21_interfaces/02_package-sort/notes.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="68">
-                  <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="50" />
+                <state relative-caret-position="187">
+                  <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/21_interfaces/02_package-sort/01_sort-names/02_/main.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="119">
+                  <caret line="10" column="59" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="59" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
           <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/21_interfaces/01_interface/03_interface/main.go">
+            <entry file="file://$PROJECT_DIR$/21_interfaces/01_interface/02_interface/main.go">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="408">
-                  <caret line="34" column="139" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="139" />
+                <state relative-caret-position="204">
+                  <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
                   <folding />
                 </state>
               </provider>
@@ -96,9 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/19_map/04_len/main.go" />
-        <option value="$PROJECT_DIR$/19_map/05_update-entry/main.go" />
-        <option value="$PROJECT_DIR$/19_map/06_deleting-an-entry/main.go" />
         <option value="$PROJECT_DIR$/19_map/07_comma-ok-idiom_val-exists/main.go" />
         <option value="$PROJECT_DIR$/19_map/10_loop-range/main.go" />
         <option value="$PROJECT_DIR$/19_map/11_hash-table/main.go" />
@@ -146,7 +137,10 @@
         <option value="$PROJECT_DIR$/21_interfaces/02_package-sort/notes.txt" />
         <option value="$PROJECT_DIR$/21_interfaces/02_package-sort/01_sort-names/main.go" />
         <option value="$PROJECT_DIR$/21_interfaces/02_package-sort/01_sort-names/01_/main.go" />
+        <option value="$PROJECT_DIR$/21_interfaces/02_package-sort/02_sort-names_type-StringSlice/main.go" />
+        <option value="$PROJECT_DIR$/21_interfaces/02_package-sort/03_sort-Strings/main.go" />
         <option value="$PROJECT_DIR$/21_interfaces/02_package-sort/01_sort-names/02_/main.go" />
+        <option value="$PROJECT_DIR$/21_interfaces/02_package-sort/04_sort-names_type-StringSlice_reverse/main.go" />
       </list>
     </option>
   </component>
@@ -311,6 +305,10 @@
               <option name="myItemId" value="01_sort-names" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -331,10 +329,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="01_sort-names" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01_" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -378,6 +372,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="21_interfaces" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_interface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_interface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -401,19 +417,19 @@
     <property name="SearchEverywhereHistoryKey" value="type&#9;FILE&#9;file://C:/Users/Gil/Documents/Go Workspace/src/github.com/gwespinola/udemy Training/11_switch-statements/05_on-type/type.go&#10;control&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\21_interfaces\02_package-sort\01_sort-names\01_" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\20_struct\03_methods\01_alt" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\19_map\11_hash-table\04_english-alphabet\01_" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\16_exercises\06-euler\02_" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\16_exercises\03_variadic\01_my-solution" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\15_pass-by-value\05_REFERENCE-TYPE" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\14_defer\02_with-defer" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\10_func-expression\03_func-expression_shows-type" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\10_func-expression\02_func-expression" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\03_variables\03_less-emphasis\08_exercise_your-name" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\21_interfaces\02_package-sort\01_sort-names\01_" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\20_struct\03_methods\01_alt" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\19_map\11_hash-table\04_english-alphabet\01_" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\16_exercises\06-euler\02_" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\16_exercises\03_variadic\01_my-solution" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -530,12 +546,12 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21546261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34005377" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24904943" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39919356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39919356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -564,7 +580,8 @@
     <MESSAGE value="Corrections to the first exercise" />
     <MESSAGE value="Project Euler completion" />
     <MESSAGE value="Finished exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished exercises" />
+    <MESSAGE value="Second part of interfaces class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second part of interfaces class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -573,27 +590,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/19_map/00_make/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19_map/01_shorthand/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/04_english-alphabet/02_/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/19_map/11_hash-table/02_even-distribution-hash/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -878,40 +874,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/21_interfaces/02_package-sort/01_sort-names/01_/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="e#14#26#0" expanded="true" />
+            <element signature="e#14#26#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/21_interfaces/01_interface/02_interface/main.go">
+    <entry file="file://$PROJECT_DIR$/21_interfaces/02_package-sort/02_sort-names_type-StringSlice/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="170">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#14#39#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/21_interfaces/02_package-sort/notes.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="50" />
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21_interfaces/02_package-sort/03_sort-Strings/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#39#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/21_interfaces/01_interface/03_interface/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="34" column="139" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="139" />
+        <state relative-caret-position="90">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Programming/Go/src/sort/sort.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="239">
           <caret line="350" column="5" lean-forward="false" selection-start-line="350" selection-start-column="5" selection-end-line="350" selection-end-column="5" />
           <folding />
         </state>
@@ -919,8 +928,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/21_interfaces/02_package-sort/01_sort-names/02_/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        <state relative-caret-position="119">
+          <caret line="10" column="59" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21_interfaces/01_interface/02_interface/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21_interfaces/02_package-sort/04_sort-names_type-StringSlice_reverse/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding>
             <element signature="e#14#39#0" expanded="true" />
           </folding>

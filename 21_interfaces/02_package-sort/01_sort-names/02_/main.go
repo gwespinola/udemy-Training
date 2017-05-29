@@ -7,12 +7,8 @@ import (
 
 type people []string
 
-func strings(z people) {
-	return sort.Strings(people)
-}
-
-func main()  {
+func main() {
 	studyGroup := people{"Zeno", "John", "Al", "Jenny"}
-	fmt.Println(studyGroup)
-	fmt.Println(strings(people)
+	sort.Strings(studyGroup)
+	fmt.Println("Study Group:", studyGroup)
 }
