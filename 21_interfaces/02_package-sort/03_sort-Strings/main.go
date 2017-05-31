@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	n := []int{7, 4, 8, 2, 9, 19, 32, 3}
-	sort.Ints(n)
-	fmt.Println(n)
+	studyGroup := []string{"Zeno", "John", "Al", "Jenny"}
+	sort.Sort(sort.Reverse(sort.StringSlice(studyGroup)))
+	fmt.Println(studyGroup)
 }

@@ -5,9 +5,10 @@ import (
 	"sort"
 )
 
+type people []string
+
 func main() {
-	studyGroup := []string{"Zeno", "John", "Al", "Jenny"}
+	studyGroup := people{"Zeno", "John", "Al", "Jenny"}
 	sort.Sort(sort.Reverse(sort.StringSlice(studyGroup)))
 	fmt.Println(studyGroup)
 }
-
