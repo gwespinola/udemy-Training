@@ -2,19 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/09_channels/00_unbuffered-channels-block/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/09_channels/01_range/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/01_race-condition/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/02_wait-group/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/03_semaphore/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/04_semaphore-wrong-way/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/05_n-times_to_1/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/09_channels/03_1-to-n/01_1_to_2-times/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/09_channels/03_1-to-n/02_1_to_n-times/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/09_channels/04_pass-return-channels/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/09_channels/05_channel-direction/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/09_channels/06_refactor/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/09_channels/07_incrementor/main.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -40,6 +27,10 @@
               <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
+                <marker date="1496465018470" expanded="true" signature="156:269" ph="{...}" />
+                <marker date="1496465018470" expanded="true" signature="192:253" ph="{...}" />
+                <marker date="1496465018470" expanded="true" signature="340:421" ph="{...}" />
+                <marker date="1496465018470" expanded="true" signature="375:392" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -64,6 +55,7 @@
               <caret line="36" column="9" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
+                <marker date="1496465019062" expanded="true" signature="430:555" ph="/*...*/" />
               </folding>
             </state>
           </provider>
@@ -76,6 +68,7 @@
               <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
               <folding>
                 <element signature="e#14#31#0" expanded="true" />
+                <marker date="1496465017728" expanded="true" signature="387:521" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -519,7 +512,8 @@
     <MESSAGE value="Finished exercises" />
     <MESSAGE value="Second part of interfaces class" />
     <MESSAGE value="Finished interface examples and exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished interface examples and exercises" />
+    <MESSAGE value="Finished channel classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished channel classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -893,6 +887,10 @@
           <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
+            <marker date="1496465018470" expanded="true" signature="156:269" ph="{...}" />
+            <marker date="1496465018470" expanded="true" signature="192:253" ph="{...}" />
+            <marker date="1496465018470" expanded="true" signature="340:421" ph="{...}" />
+            <marker date="1496465018470" expanded="true" signature="375:392" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -903,6 +901,7 @@
           <caret line="36" column="9" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
+            <marker date="1496465019062" expanded="true" signature="430:555" ph="/*...*/" />
           </folding>
         </state>
       </provider>
@@ -913,6 +912,7 @@
           <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
           <folding>
             <element signature="e#14#31#0" expanded="true" />
+            <marker date="1496465017728" expanded="true" signature="387:521" ph="{...}" />
           </folding>
         </state>
       </provider>
