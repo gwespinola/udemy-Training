@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/01_deadlock-challenge/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/02_deadlock-challenge/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/03_deadlock-challenge/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/04_deadlock-challenge/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/05_deadlock-solution/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/11_factorial-challenge/01_challenge-description/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/11_factorial-challenge/02_challenge-solution/01_my-solution/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/12_channels_pipeline/01_sq-output/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/12_channels_pipeline/02_sq-output/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/12_channels_pipeline/03_challenge-description/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/12_channels_pipeline/04_challenge-solution/01_my-solution/main.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,32 +23,52 @@
     <favorites_list name="udemy Training" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/22_go-routines/11_factorial-challenge/01_challenge-description/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="26" />
-              <folding>
-                <element signature="e#14#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/22_go-routines/11_factorial-challenge/02_challenge-solution/01_my-solution/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-              <folding>
-                <element signature="e#14#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/22_go-routines/12_channels_pipeline/04_challenge-solution/01_my-solution/main.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="391">
+                  <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#14#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/22_go-routines/12_channels_pipeline/03_challenge-description/main.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="542">
+                  <caret line="35" column="2" lean-forward="false" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+                  <folding>
+                    <element signature="e#14#31#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/22_go-routines/12_channels_pipeline/02_sq-output/main.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+                  <folding>
+                    <element signature="e#14#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,8 +81,11 @@
     <findStrings>
       <find>in</find>
       <find>int</find>
+      <find>factorial</find>
+      <find>int64</find>
     </findStrings>
     <replaceStrings>
+      <replace>gen</replace>
       <replace>int</replace>
     </replaceStrings>
     <dirStrings>
@@ -80,11 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/21_interfaces/03_empty-interface/02_empty-interface/main.go" />
-        <option value="$PROJECT_DIR$/21_interfaces/03_empty-interface/03_params-accepts-any-type/main.go" />
-        <option value="$PROJECT_DIR$/21_interfaces/03_empty-interface/04_slice-of-any-type/main.go" />
-        <option value="$PROJECT_DIR$/21_interfaces/04_method-sets/01_value-receiver_value-type/main.go" />
-        <option value="$PROJECT_DIR$/21_interfaces/04_method-sets/02_value-receiver_pointer-type/main.go" />
         <option value="$PROJECT_DIR$/21_interfaces/04_method-sets/03_pointer-receiver_pointer-type/main.go" />
         <option value="$PROJECT_DIR$/21_interfaces/04_method-sets/04_pointer-receiver_value-type/main.go" />
         <option value="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/01_int-to-float/main.go" />
@@ -131,6 +146,11 @@
         <option value="$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/05_deadlock-solution/main.go" />
         <option value="$PROJECT_DIR$/22_go-routines/11_factorial-challenge/01_challenge-description/main.go" />
         <option value="$PROJECT_DIR$/22_go-routines/11_factorial-challenge/02_challenge-solution/01_my-solution/main.go" />
+        <option value="$PROJECT_DIR$/22_go-routines/12_channels_pipeline/01_sq-output/main.go" />
+        <option value="$PROJECT_DIR$/22_go-routines/12_channels_pipeline/02_sq-output/main.go" />
+        <option value="$PROJECT_DIR$/22_go-routines/12_channels_pipeline/04_challenge-solution/main.go" />
+        <option value="$PROJECT_DIR$/22_go-routines/12_channels_pipeline/03_challenge-description/main.go" />
+        <option value="$PROJECT_DIR$/22_go-routines/12_channels_pipeline/04_challenge-solution/01_my-solution/main.go" />
       </list>
     </option>
   </component>
@@ -148,8 +168,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -201,140 +222,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="22_go-routines" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11_factorial-challenge" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02_challenge-solution" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="22_go-routines" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11_factorial-challenge" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01_challenge-description" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="22_go-routines" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="22_go-routines" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="09_channels" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="07_incrementor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="22_go-routines" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="09_channels" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="06_refactor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemy Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="22_go-routines" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="09_channels" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -363,6 +250,100 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy-Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy-Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy-Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy-Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="22_go-routines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="12_channels_pipeline" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="04_challenge-solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_my-solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy-Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy-Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="22_go-routines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="12_channels_pipeline" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03_challenge-description" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy-Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy-Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="22_go-routines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="12_channels_pipeline" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy-Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy-Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="22_go-routines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
     </panes>
   </component>
@@ -384,13 +365,6 @@
     <property name="SearchEverywhereHistoryKey" value="type&#9;FILE&#9;file://C:/Users/Gil/Documents/Go Workspace/src/github.com/gwespinola/udemy Training/11_switch-statements/05_on-type/type.go&#10;control&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\21_interfaces\02_package-sort\06_sort-int_type-IntSlice_reverse\01_" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\21_interfaces\02_package-sort\03_sort-Strings\01_" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\21_interfaces\02_package-sort\03_sort-Strings" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\21_interfaces\02_package-sort\04_sort-names_type-StringSlice_reverse\01_" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\21_interfaces\02_package-sort\07_sort-Ints" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\15_pass-by-value\05_REFERENCE-TYPE" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\14_defer\02_with-defer" />
@@ -398,6 +372,194 @@
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\10_func-expression\02_func-expression" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\03_variables\03_less-emphasis\08_exercise_your-name" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gilberto\Documents\Go Workspace\src\github.com\gwespinola\udemy-Training\22_go-routines\12_channels_pipeline\04_challenge-solution\01_my-solution" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\21_interfaces\02_package-sort\06_sort-int_type-IntSlice_reverse\01_" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\21_interfaces\02_package-sort\03_sort-Strings\01_" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\21_interfaces\02_package-sort\03_sort-Strings" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\21_interfaces\02_package-sort\04_sort-names_type-StringSlice_reverse\01_" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/libraries/GOPATH__udemy_Training_.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/02_package-sort/01_sort-names/02_/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/02_package-sort/03_sort-Strings/main.go</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/02_package-sort/01_sort-names/03_Todds-solution/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/02_package-sort/02_sort-names_type-StringSlice/01_/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/02_package-sort/02_sort-names_type-StringSlice/02_Todds-solution/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/02_package-sort/03_sort-Strings/01_/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/02_package-sort/03_sort-Strings/02_Todds-solution/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/02_package-sort/04_sort-names_type-StringSlice_reverse/01_Todds-solution/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/02_package-sort/05_sort-int_type-IntSlice/01_/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/02_package-sort/05_sort-int_type-IntSlice/02_Todds-solution/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/02_package-sort/06_sort-int_type-IntSlice_reverse/01_/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/02_package-sort/06_sort-int_type-IntSlice_reverse/02_Todds-solution/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/02_package-sort/07_sort-Ints/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/02_package-sort/08_standard-library-example/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/03_empty-interface/01_no-interface/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/03_empty-interface/02_empty-interface/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/03_empty-interface/03_params-accepts-any-type/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/03_empty-interface/04_slice-of-any-type/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/04_method-sets/01_value-receiver_value-type/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/04_method-sets/02_value-receiver_pointer-type/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/04_method-sets/03_pointer-receiver_pointer-type/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/04_method-sets/04_pointer-receiver_value-type/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/01_int-to-float/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/02_float-to-int/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/03_rune-to-string/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/04_rune-to-slice-of-bytes-to-string/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/05_string-to-slice-of-bytes/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/06_strconv/01_Atoi/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/06_strconv/02_Itoa/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/06_strconv/03_ParseInt/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/01_non-interface-error_invalid-code/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/02_interface-string/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/03_interface-string_not-ok/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/04_interface-int_print-type/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/05_interface-int_mismatched-types-error/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/06_interface-int-sum/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/07_casting-reminder/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/08_interface-cast-error_need-type-assertion/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/01_no-go/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/02_go-concurrency/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/03_wait-group/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/04_time-sleep_time-duration/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/05_gomaxprocs_parallelism/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/06_race-condition/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/07_mutex/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/08_atomicity/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/09_channels/00_unbuffered-channels-block/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/09_channels/01_range/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/01_race-condition/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/02_wait-group/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/03_semaphore/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/04_semaphore-wrong-way/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/05_n-times_to_1/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/09_channels/03_1-to-n/01_1_to_2-times/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/09_channels/03_1-to-n/02_1_to_n-times/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/09_channels/04_pass-return-channels/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/09_channels/05_channel-direction/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/09_channels/06_refactor/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/09_channels/07_incrementor/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/01_deadlock-challenge/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/02_deadlock-challenge/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/03_deadlock-challenge/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/04_deadlock-challenge/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/05_deadlock-solution/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/11_factorial-challenge/01_challenge-description/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/22_go-routines/11_factorial-challenge/02_challenge-solution/01_my-solution/main.go</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/02_package-sort/02_sort-names_type-StringSlice/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/02_package-sort/04_sort-names_type-StringSlice_reverse/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/02_package-sort/05_sort-int_type-IntSlice/main.go</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/21_interfaces/02_package-sort/06_sort-int_type-IntSlice_reverse/main.go</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -431,21 +593,27 @@
       <filePath value="$PROJECT_DIR$/21_interfaces/02_package-sort/01_sort-names/02_/main.go" />
       <method />
     </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="" />
+      <module name="udemy Training" />
       <working_directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <method />
     </configuration>
     <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
-      <module name="" />
+      <module name="udemy Training" />
       <working_directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <method />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="" />
+      <module name="udemy Training" />
       <working_directory value="$PROJECT_DIR$" />
       <framework value="gotest" />
       <kind value="DIRECTORY" />
@@ -473,6 +641,15 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -487,6 +664,19 @@
       <scripts />
       <node-interpreter value="project" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
       <method />
     </configuration>
     <list size="3">
@@ -505,6 +695,12 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7319000" />
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -515,26 +711,35 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1616" height="876" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21546261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21522693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34005377" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24904943" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39919356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34005377" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21546261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24904943" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39919356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,34 +773,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/21_interfaces/03_empty-interface/03_params-accepts-any-type/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21_interfaces/03_empty-interface/04_slice-of-any-type/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21_interfaces/04_method-sets/01_value-receiver_value-type/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21_interfaces/04_method-sets/02_value-receiver_pointer-type/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/21_interfaces/04_method-sets/03_pointer-receiver_pointer-type/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -939,16 +1116,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
           <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/12_channels_pipeline/01_sq-output/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#27#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/22_go-routines/11_factorial-challenge/02_challenge-solution/01_my-solution/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="102">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/12_channels_pipeline/03_challenge-description/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="35" column="2" lean-forward="false" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
           <folding>
             <element signature="e#14#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/12_channels_pipeline/02_sq-output/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/12_channels_pipeline/04_challenge-solution/01_my-solution/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
