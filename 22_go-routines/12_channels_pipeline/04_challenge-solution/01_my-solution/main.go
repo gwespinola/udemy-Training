@@ -4,12 +4,12 @@ import "fmt"
 
 func main() {
 
-	in := gen()
+	in := gen() 	// Gives a receive only channel
 
-	f := factorial(in)
+	f := factorial(in)	// Factorial takes a receive only channel and also returns a receive only channel
 
-	for n := range f{
-		fmt.Println(n)
+	for n := range f{ 	// Then we range over that receive only channel
+		fmt.Println(n)	// and print ou its result.
 	}
 }
 
@@ -37,11 +37,10 @@ func factorial(in <- chan int) <-chan int {
 	return out
 }
 
-func fact(n int) int {
-	total := 1
-	for i := n; i >0; i -- {
+func fact(n int) int { 	// Takes each of the numbers passed on by the factorial function
+	total := 1	// runs the function bellow and prints it out to "out"
+	for i := n; i >0; i -- { 	// in the function above.
 		total *= i
 	}
 	return total
-
 }
