@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/02_sq-output/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/03_sq-output_variation/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/04_challenge-description/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/05_challenge-solution/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/06_challenge-description/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/07_challenge-solution/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/GOPATH__udemy_Training_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__udemy_Training_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/07_challenge-solution/01_my-solution/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/07_challenge-solution/02_todd's-solution/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/08_challenge-description/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/09_challenge-solution/01_my-solution/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/09_challenge-solution/02_todd's-solution/01_troubleshooting-step/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/09_challenge-solution/02_todd's-solution/02_solution/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/14_incrementor-challenge/01_description/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/14_incrementor-challenge/02_solution/01_my-solution/main.go" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/07_challenge-solution/main.go" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/01_boring/main.go" afterPath="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/01_boring/main.go" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,29 +28,15 @@
     <favorites_list name="udemy Training" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.48910412">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+        <leaf>
           <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/06_challenge-description/main.go">
+            <entry file="file://$PROJECT_DIR$/22_go-routines/14_incrementor-challenge/02_solution/01_my-solution/main.go">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="935">
-                  <caret line="58" column="2" lean-forward="false" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
-                  <folding>
-                    <element signature="e#14#31#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/07_challenge-solution/main.go">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
-                  <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#14#31#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -58,14 +45,24 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/02_sq-output/main.go">
+          <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/22_go-routines/14_incrementor-challenge/01_description/main.go">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="447">
-                  <caret line="51" column="15" lean-forward="false" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
+                <state relative-caret-position="306">
+                  <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
                   <folding>
-                    <element signature="e#14#39#0" expanded="true" />
+                    <element signature="e#14#54#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/01_boring/main.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="459">
+                  <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -87,6 +84,7 @@
       <find>int</find>
       <find>factorial</find>
       <find>int64</find>
+      <find>[]</find>
     </findStrings>
     <replaceStrings>
       <replace>gen</replace>
@@ -104,14 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/06_strconv/01_Atoi/main.go" />
-        <option value="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/06_strconv/02_Itoa/main.go" />
-        <option value="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/06_strconv/03_ParseInt/main.go" />
-        <option value="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/01_non-interface-error_invalid-code/main.go" />
-        <option value="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/02_interface-string/main.go" />
-        <option value="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/03_interface-string_not-ok/main.go" />
-        <option value="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/04_interface-int_print-type/main.go" />
-        <option value="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/05_interface-int_mismatched-types-error/main.go" />
         <option value="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/06_interface-int-sum/main.go" />
         <option value="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/07_casting-reminder/main.go" />
         <option value="$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/08_interface-cast-error_need-type-assertion/main.go" />
@@ -149,12 +139,20 @@
         <option value="$PROJECT_DIR$/22_go-routines/12_channels_pipeline/03_challenge-description/main.go" />
         <option value="$PROJECT_DIR$/22_go-routines/12_channels_pipeline/04_challenge-solution/01_my-solution/main.go" />
         <option value="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/01_boring/main.go" />
-        <option value="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/02_sq-output/main.go" />
         <option value="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/03_sq-output_variation/main.go" />
         <option value="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/04_challenge-description/main.go" />
         <option value="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/05_challenge-solution/main.go" />
-        <option value="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/06_challenge-description/main.go" />
         <option value="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/07_challenge-solution/main.go" />
+        <option value="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/07_challenge-solution/02_todd's-solution/main.go" />
+        <option value="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/06_challenge-description/main.go" />
+        <option value="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/07_challenge-solution/01_my-solution/main.go" />
+        <option value="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/08_challenge-description/main.go" />
+        <option value="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/02_sq-output/main.go" />
+        <option value="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/09_challenge-solution/main.go" />
+        <option value="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/09_challenge-solution/02_todd's-solution/main.go" />
+        <option value="$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/09_challenge-solution/02_todd's-solution/02_solution/main.go" />
+        <option value="$PROJECT_DIR$/22_go-routines/14_incrementor-challenge/01_description/main.go" />
+        <option value="$PROJECT_DIR$/22_go-routines/14_incrementor-challenge/02_solution/01_my-solution/main.go" />
       </list>
     </option>
   </component>
@@ -280,6 +278,94 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="14_incrementor-challenge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="22_go-routines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="14_incrementor-challenge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="22_go-routines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="13_channels_fan-out_fan-in" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="09_challenge-solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="22_go-routines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="13_channels_fan-out_fan-in" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="09_challenge-solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_my-solution" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="22_go-routines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="13_channels_fan-out_fan-in" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -302,7 +388,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="02_sq-output" />
+              <option name="myItemId" value="05_challenge-solution" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -317,6 +403,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="22_go-routines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="13_channels_fan-out_fan-in" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_boring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="22_go-routines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="22_go-routines" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="06_race-condition" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -344,19 +470,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\22_go-routines\13_channels_fan-out_fan-in\09_challenge-solution\02_todd's-solution\01_troubleshooting-step" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\22_go-routines\13_channels_fan-out_fan-in\09_challenge-solution\01_my-solution" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\22_go-routines\13_channels_fan-out_fan-in\07_challenge-solution\01_my-solution" />
+      <recent name="C:\Users\Gilberto\Documents\Go Workspace\src\github.com\gwespinola\udemy-Training\22_go-routines\12_channels_pipeline\04_challenge-solution\01_my-solution" />
+      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\21_interfaces\02_package-sort\06_sort-int_type-IntSlice_reverse\01_" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\15_pass-by-value\05_REFERENCE-TYPE" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\14_defer\02_with-defer" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\10_func-expression\03_func-expression_shows-type" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\14_functions\10_func-expression\02_func-expression" />
       <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\03_variables\03_less-emphasis\08_exercise_your-name" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Gilberto\Documents\Go Workspace\src\github.com\gwespinola\udemy-Training\22_go-routines\12_channels_pipeline\04_challenge-solution\01_my-solution" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\21_interfaces\02_package-sort\06_sort-int_type-IntSlice_reverse\01_" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\21_interfaces\02_package-sort\03_sort-Strings\01_" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\21_interfaces\02_package-sort\03_sort-Strings" />
-      <recent name="C:\Users\Gil\Documents\Go Workspace\src\github.com\gwespinola\udemy Training\21_interfaces\02_package-sort\04_sort-names_type-StringSlice_reverse\01_" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -531,7 +657,8 @@
     <MESSAGE value="Finished interface examples and exercises" />
     <MESSAGE value="Finished channel classes" />
     <MESSAGE value="Added comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added comment" />
+    <MESSAGE value="Corrected exercise 2 code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrected exercise 2 code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -540,55 +667,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/06_strconv/01_Atoi/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/06_strconv/02_Itoa/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/01_conversion/06_strconv/03_ParseInt/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/01_non-interface-error_invalid-code/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="102" lean-forward="false" selection-start-line="4" selection-start-column="102" selection-end-line="4" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/02_interface-string/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/03_interface-string_not-ok/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/04_interface-int_print-type/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/21_interfaces/05_conversion-vs-assertion/02_assertion/05_interface-int_mismatched-types-error/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -649,27 +727,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22_go-routines/06_race-condition/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="25" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="32" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22_go-routines/07_mutex/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22_go-routines/08_atomicity/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -797,7 +854,7 @@
         <state relative-caret-position="204">
           <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="26" />
           <folding>
-            <element signature="e#14#31#0" expanded="true" />
+            <element signature="e#14#31#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -806,13 +863,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Programming/Go/src/builtin/builtin.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -828,7 +878,7 @@
         <state relative-caret-position="459">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
-            <element signature="e#14#31#0" expanded="true" />
+            <element signature="e#14#31#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -854,71 +904,167 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/01_boring/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="106" lean-forward="false" selection-start-line="11" selection-start-column="106" selection-end-line="11" selection-end-column="106" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/03_sq-output_variation/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="685">
-          <caret line="85" column="2" lean-forward="false" selection-start-line="85" selection-start-column="2" selection-end-line="85" selection-end-column="2" />
-          <folding>
-            <element signature="e#14#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/05_challenge-solution/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1246">
-          <caret line="68" column="2" lean-forward="false" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
-          <folding>
-            <element signature="e#14#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/04_challenge-description/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
           <folding>
-            <element signature="e#14#39#0" expanded="true" />
+            <element signature="e#14#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/07_challenge-solution/main.go">
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/03_sq-output_variation/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="1297">
+          <caret line="85" column="2" lean-forward="false" selection-start-line="85" selection-start-column="2" selection-end-line="85" selection-end-column="2" />
           <folding>
-            <element signature="e#14#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/02_sq-output/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="51" column="15" lean-forward="false" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
-          <folding>
-            <element signature="e#14#39#0" expanded="true" />
+            <element signature="e#14#39#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/06_challenge-description/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="58" column="2" lean-forward="false" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
+        <state relative-caret-position="56">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
           <folding>
-            <element signature="e#14#31#0" expanded="true" />
+            <element signature="e#14#31#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/07_challenge-solution/01_my-solution/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <element signature="e#14#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/08_challenge-description/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="94" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="94" selection-end-column="2" />
+          <folding>
+            <element signature="e#14#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Programming/Go/src/builtin/builtin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="133" column="5" lean-forward="false" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/07_challenge-solution/02_todd's-solution/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="76" column="25" lean-forward="true" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
+          <folding>
+            <element signature="e#14#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/09_challenge-solution/02_todd's-solution/02_solution/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="e#14#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/09_challenge-solution/02_todd's-solution/01_troubleshooting-step/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="96" column="1" lean-forward="false" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/07_mutex/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/08_atomicity/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/06_race-condition/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="32" column="25" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="32" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/09_challenge-solution/01_my-solution/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="73" column="17" lean-forward="true" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
+          <folding>
+            <element signature="e#14#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/05_challenge-solution/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-471">
+          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/02_sq-output/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/14_incrementor-challenge/01_description/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/13_channels_fan-out_fan-in/01_boring/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_go-routines/14_incrementor-challenge/02_solution/01_my-solution/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
