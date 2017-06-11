@@ -1,0 +1,1 @@
+2017/06/11 12:08:00 err happened open no-file.txt: O sistema não pode encontrar o arquivo especificado.
