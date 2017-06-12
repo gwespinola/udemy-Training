@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22_go-routines/14_incrementor-challenge/02_solution/02_todds-solution/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23_error-handling/01_golint/01_before/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23_error-handling/01_golint/02_after/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23_error-handling/02_err-not-nil/01_fmt-println/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23_error-handling/02_err-not-nil/02_log-println/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23_error-handling/02_err-not-nil/03_log-set-output/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23_error-handling/02_err-not-nil/04_log-fatalln/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23_error-handling/02_err-not-nil/05_panic/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23_error-handling/03_custom-errors/01_errors-new/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23_error-handling/03_custom-errors/02_errors-new_var/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23_error-handling/03_custom-errors/03_fmt-errorf/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23_error-handling/03_custom-errors/04_fmt-error_var/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23_error-handling/03_custom-errors/05_custom-type/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/01_echo1/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/02_echo2/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/03_echo3/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/04_exercise_1.1/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/05_exercise_1.2/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/06_exercise_1.3/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/GOPATH__udemy_Training_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__udemy_Training_.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/22_go-routines/14_incrementor-challenge/02_solution/01_my-solution/main.go" afterPath="$PROJECT_DIR$/22_go-routines/14_incrementor-challenge/02_solution/01_my-solution/main.go" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,22 +29,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/23_error-handling/03_custom-errors/01_errors-new/main.go">
+        <entry file="file://$PROJECT_DIR$/24_donovan_book/01_chapter-1/03_echo3/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-              <folding>
-                <element signature="e#14#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/23_error-handling/03_custom-errors/02_errors-new_var/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+            <state relative-caret-position="170">
+              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
               <folding>
                 <element signature="e#14#48#0" expanded="true" />
               </folding>
@@ -58,24 +41,48 @@
         </entry>
       </file>
       <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/23_error-handling/03_custom-errors/03_fmt-errorf/main.go">
+        <entry file="file://$PROJECT_DIR$/24_donovan_book/01_chapter-1/04_exercise_1.1/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="170">
+              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               <folding>
-                <element signature="e#14#38#0" expanded="true" />
+                <element signature="e#14#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/24_donovan_book/01_chapter-1/01_echo1/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="22" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="15" selection-end-column="22" />
+              <folding>
+                <element signature="e#14#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/24_donovan_book/01_chapter-1/05_exercise_1.2/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding>
+                <element signature="e#14#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/23_error-handling/03_custom-errors/04_fmt-error_var/main.go">
+        <entry file="file://$PROJECT_DIR$/24_donovan_book/01_chapter-1/06_exercise_1.3/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            <state relative-caret-position="0">
+              <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="12" />
               <folding>
-                <element signature="e#14#38#0" expanded="true" />
+                <element signature="e#14#48#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,13 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/01_race-condition/main.go" />
-        <option value="$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/02_wait-group/main.go" />
-        <option value="$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/03_semaphore/main.go" />
-        <option value="$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/04_semaphore-wrong-way/main.go" />
-        <option value="$PROJECT_DIR$/22_go-routines/09_channels/02_n-to-1/05_n-times_to_1/main.go" />
-        <option value="$PROJECT_DIR$/22_go-routines/09_channels/03_1-to-n/01_1_to_2-times/main.go" />
-        <option value="$PROJECT_DIR$/22_go-routines/09_channels/03_1-to-n/02_1_to_n-times/main.go" />
         <option value="$PROJECT_DIR$/22_go-routines/09_channels/04_pass-return-channels/main.go" />
         <option value="$PROJECT_DIR$/22_go-routines/09_channels/07_incrementor/main.go" />
         <option value="$PROJECT_DIR$/22_go-routines/09_channels/05_channel-direction/main.go" />
@@ -165,6 +165,13 @@
         <option value="$PROJECT_DIR$/23_error-handling/03_custom-errors/02_errors-new_var/main.go" />
         <option value="$PROJECT_DIR$/23_error-handling/03_custom-errors/03_fmt-errorf/main.go" />
         <option value="$PROJECT_DIR$/23_error-handling/03_custom-errors/04_fmt-error_var/main.go" />
+        <option value="$PROJECT_DIR$/23_error-handling/03_custom-errors/05_custom-type/main.go" />
+        <option value="$PROJECT_DIR$/24_donovan_book/01_chapter-1/01_echo1/main.go" />
+        <option value="$PROJECT_DIR$/24_donovan_book/01_chapter-1/02_echo2/main.go" />
+        <option value="$PROJECT_DIR$/24_donovan_book/01_chapter-1/04_exercise_1.1/main.go" />
+        <option value="$PROJECT_DIR$/24_donovan_book/01_chapter-1/05_exercise_1.2/main.go" />
+        <option value="$PROJECT_DIR$/24_donovan_book/01_chapter-1/03_echo3/main.go" />
+        <option value="$PROJECT_DIR$/24_donovan_book/01_chapter-1/06_exercise_1.3/main.go" />
       </list>
     </option>
   </component>
@@ -287,11 +294,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="23_error-handling" />
+              <option name="myItemId" value="24_donovan_book" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="03_custom-errors" />
+              <option name="myItemId" value="01_chapter-1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -305,7 +312,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="23_error-handling" />
+              <option name="myItemId" value="24_donovan_book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_chapter-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="05_exercise_1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="24_donovan_book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_chapter-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_echo1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -489,12 +526,12 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2148289" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34005377" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32392472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24904943" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39919356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -537,55 +574,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/03_1-to-n/01_1_to_2-times/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/03_1-to-n/02_1_to_n-times/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/05_channel-direction/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="2" lean-forward="false" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/01_deadlock-challenge/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/02_deadlock-challenge/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/03_deadlock-challenge/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/22_go-routines/09_channels/04_pass-return-channels/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/22_go-routines/10_deadlock-challenges/04_deadlock-challenge/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -695,7 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
           <caret line="133" column="5" lean-forward="false" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -773,7 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="266" column="16" lean-forward="true" selection-start-line="266" selection-start-column="16" selection-end-line="266" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -844,9 +830,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="30" column="108" lean-forward="false" selection-start-line="30" selection-start-column="108" selection-end-line="30" selection-end-column="108" />
-          <folding>
-            <element signature="e#14#44#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -854,7 +837,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -862,7 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -870,48 +851,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/23_error-handling/03_custom-errors/01_errors-new/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="272">
           <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-          <folding>
-            <element signature="e#14#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/23_error-handling/03_custom-errors/02_errors-new_var/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="119">
           <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23_error-handling/03_custom-errors/03_fmt-errorf/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23_error-handling/03_custom-errors/04_fmt-error_var/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23_error-handling/03_custom-errors/05_custom-type/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="2" lean-forward="false" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24_donovan_book/01_chapter-1/02_echo2/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24_donovan_book/01_chapter-1/03_echo3/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding>
             <element signature="e#14#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/23_error-handling/03_custom-errors/03_fmt-errorf/main.go">
+    <entry file="file://$PROJECT_DIR$/24_donovan_book/01_chapter-1/05_exercise_1.2/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding>
-            <element signature="e#14#38#0" expanded="true" />
+            <element signature="e#14#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/23_error-handling/03_custom-errors/04_fmt-error_var/main.go">
+    <entry file="file://$PROJECT_DIR$/24_donovan_book/01_chapter-1/04_exercise_1.1/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="170">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding>
-            <element signature="e#14#38#0" expanded="true" />
+            <element signature="e#14#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24_donovan_book/01_chapter-1/01_echo1/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="e#14#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24_donovan_book/01_chapter-1/06_exercise_1.3/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="12" />
+          <folding>
+            <element signature="e#14#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
