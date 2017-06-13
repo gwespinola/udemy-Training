@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d268a1d-170e-4ed3-b37b-666156b5f4ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/06_exercise_1.3/main_test.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/07_dup1/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/08_dup2/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/09_dup3/main.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/10_exercise_1.4/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/06_exercise_1.3/main.go" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/01_echo1/main.go" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/01_echo1/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/02_echo2/main.go" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/02_echo2/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/03_echo3/main.go" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/03_echo3/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/04_exercise_1.1/main.go" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/04_exercise_1.1/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/05_exercise_1.2/main.go" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/05_exercise_1.2/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/06_exercise_1.3/main_test.go" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/06_exercise_1.3/main_test.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/07_dup1/main.go" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/07_dup1/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/08_dup2/main.go" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/08_dup2/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/09_dup3/main.go" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/09_dup3/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/10_exercise_1.4/main.go" afterPath="$PROJECT_DIR$/24_donovan_book/01_chapter-1/10_exercise_1.4/main.go" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,8 +35,8 @@
           <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/24_donovan_book/01_chapter-1/10_exercise_1.4/main.go">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+                <state relative-caret-position="476">
+                  <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
                   <folding>
                     <element signature="e#101#133#0" expanded="true" />
                   </folding>
@@ -267,6 +272,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="01_chapter-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="24_donovan_book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_chapter-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="06_exercise_1.3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -834,16 +861,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/24_donovan_book/01_chapter-1/06_exercise_1.3/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-          <folding>
-            <element signature="e#14#48#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/24_donovan_book/01_chapter-1/06_exercise_1.3/main_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -884,10 +901,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/24_donovan_book/01_chapter-1/06_exercise_1.3/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/24_donovan_book/01_chapter-1/10_exercise_1.4/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        <state relative-caret-position="476">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
           <folding>
             <element signature="e#101#133#0" expanded="true" />
           </folding>
