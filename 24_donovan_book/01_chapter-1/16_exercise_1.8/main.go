@@ -18,9 +18,7 @@ func main() {
 			os.Exit(1)
 		}
 		strings.HasPrefix(url, "http://")
-		if false {
-			strings.Replace()
-		}
+		// Still need to discover how to add the http prefix to the url
 		b, err := io.Copy(os.Stdout, resp.Body)
 		resp.Body.Close()
 		if err != nil {
